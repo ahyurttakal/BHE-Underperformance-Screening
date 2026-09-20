@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Generated analysis outputs
+data/processed/
+data/intermediate/
+models/
+figures/
