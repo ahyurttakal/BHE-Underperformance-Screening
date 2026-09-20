@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both this GitHub repository and the associated manuscript."
+title: "BHE Underperformance Screening"
+type: software
+authors:
+  - family-names: "Sezer"
+    given-names: "Taha"
+  - family-names: "Yurttakal"
+    given-names: "Ahmet Haşim"
+version: "1.0.0"
+date-released: "2026-09-20"
+url: "https://github.com/ahyurttakal/BHE-Underperformance-Screening"
+license: "MIT"
+
+preferred-citation:
+  type: article
+  title: "Uncertainty-Aware Machine Learning for Persistent Underperformance Screening of Borehole Heat Exchanger Circuits"
+  journal: 
+  status: Under Review
+  authors:
+    - family-names: "Sezer"
+      given-names: "Taha"
+    - family-names: "Yurttakal"
+      given-names: "Ahmet Haşim"
+  year: 2026
