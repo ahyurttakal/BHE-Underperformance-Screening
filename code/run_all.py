@@ -1,4 +1,3 @@
-"""Run the complete analysis used in the revised manuscript."""
 from __future__ import annotations
 import argparse
 import subprocess
