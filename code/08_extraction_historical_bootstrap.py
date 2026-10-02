@@ -1,8 +1,4 @@
 """
-Reviewer 2 - Comment 4
-Exploratory heat-extraction analysis using historical rolling-origin residuals
-and month-block bootstrap calibration.
-
 Purpose
 -------
 This analysis is intentionally exploratory and does NOT modify the principal
